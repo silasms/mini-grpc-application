@@ -1,11 +1,14 @@
 # ESCLARECIMENTOS DO CÓDIGO
 
+Pequeno servidor de login, utilizando gRPC para fazer os microsserviços e rest api para o servidor externo
+
 ## 1. Linguagem e libs utilizadas:
 
 *  Javascript
 *  NodeJS
 *  express
 *  gRPC
+*  
 *  proto-loader
 *  jwt
 *  mongoose
